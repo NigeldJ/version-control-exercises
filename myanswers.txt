@@ -1,1 +1,4 @@
 myanswers
+a = 210 pounds
+b = 5 km
+c = €4.50
